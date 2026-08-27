@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Gyruss '83: TECHAERIS Edition
+Comment=A dynamic retro clone of the 1983 arcade classic Gyruss
+Exec=/home/techaeris/Projects/gyruss-omarchy/run.sh
+Icon=applications-games
+Terminal=false
+Categories=Game;ArcadeGame;
+Keywords=gyruss;retro;arcade;shooter;techaeris;
