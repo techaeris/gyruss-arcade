@@ -1,6 +1,15 @@
 # Gyruss '83: TECHAERIS Edition
 
+![Gyruss '83 TECHAERIS Edition Gameplay Preview](screenshots/screenshot_1.png)
+
 An open-source, fully playable arcade clone of the 1983 classic **Gyruss**, developed in Python using Pygame. This special **TECHAERIS Edition** features dynamic, procedurally generated audio effects and a neon-themed glowing intro animation.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot_2.png" width="45%" alt="Title Screen"/>
+  <img src="screenshots/screenshot_1.png" width="45%" alt="Gameplay Action"/>
+</p>
 
 ## Features
 
